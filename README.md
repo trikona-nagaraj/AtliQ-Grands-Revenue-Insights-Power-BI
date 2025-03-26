@@ -36,7 +36,11 @@ Atliq Grands, a chain of five-star hotels in India, is experiencing revenue and 
 
 ## Technical Skills Demonstrated
 
+- Designed an optimized data model in Power BI to handle structured CSV data spanning a three-month period.
 
+- Performed data cleaning and transformation to ensure accurate, high-quality reporting.
+
+- Implemented calculated columns and measures to align with stakeholder requirements for metrics.
 
 Data Model
 
@@ -58,3 +62,13 @@ Data Model
 
 
 ## Future Improvements
+
+
+
+- Expand the data analysis to cover additional months for a more comprehensive revenue trend analysis.
+
+- Incorporate external factors (e.g., competitor data, market conditions, and customer sentiment) to enhance insight depth and decision-making.
+
+- Implement predictive analytics in future iterations to forecast revenue and optimize occupancy rates.
+
+- Automate data ingestion and reporting processes to streamline workflows and ensure real-time updates.
