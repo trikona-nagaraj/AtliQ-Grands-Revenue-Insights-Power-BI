@@ -1,7 +1,8 @@
  # AtliQ-Grands-Revenue-Insights 
  
 Note:  
--	Please find the live dashboard at  [https://app.powerbi.com/view?r=eyJrIjoiZTdjNmE0NzctMmYyMC00MGQ1LWFiMzQtNjY2ZGY3MGFiOTNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+-	Please find the live dashboard at
+  [https://app.powerbi.com/view?r=eyJrIjoiZTdjNmE0NzctMmYyMC00MGQ1LWFiMzQtNjY2ZGY3MGFiOTNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 -	All domain/business knowledge required to understand the project have been included in the Live Report, with dedicated ‘domain knowledge page’.
 -	Initial Mockup dashboards have been attached as Images in the git hub folder. 
 
