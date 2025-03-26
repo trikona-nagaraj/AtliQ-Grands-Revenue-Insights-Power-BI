@@ -19,15 +19,14 @@
 
 
 
-Problem statement
-------------------
-
-Atliq Grands owns multiple five-star hotels across India. Due to ineffective decision-making Atliq Grands are losing their market share and revenue, this Report enables the stakeholders to understand present business and incorporate relative strategies to improve their Revenue & Market Share. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+## Problem Statement
 
 
+Atliq Grands, a chain of five-star hotels in India, is experiencing revenue and market share losses due to poor decision-making. To tackle this situation, we are creating a Business Intelligence report using Power BI, aimed at drawing insights from business data to regain market share and increase revenue. The data provided by business stakeholders spans a three-month period—May, June, and July 2022—and is supplied in the form of CSV files.
 
-Objectives
------------
+
+## Objectives
+
 
 - Create the metrics according to the metric list.
 - Create a dashboard/Power BI Report according to the mock-up provided by stakeholders.
@@ -35,40 +34,19 @@ Objectives
 - Draw Insights that can Potentially Increase market share and Revenue for the company.
 
 
-
-Technical Skills Demonstrated
-------------------------------  
-
-
-Provided Mock-up Dashboard
----------------------------
-
-![mock up dashboard_atliq grands](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/1549ee63-3197-4940-b390-e498eae87881)
-
-
-
-Overall Analysis View
----------------------------------
-
-
-![image](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/f69c41bd-c17b-43f0-ae53-b5f62959fc69)
-
-
+## Technical Skills Demonstrated
 
 
 
 Data Model
-------------------------------
 
 
 ![image](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/0daf69bf-4fb0-4c07-b61d-37c6e0ee106a)
 
 
 
+## Insights Derived
 
-
-Key Insights Derived 
--------------------------------------
 
 * Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 * AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
@@ -77,3 +55,6 @@ Key Insights Derived
 * Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 * AtliQ lost around 298 Million in cancellation
 * Elite type rooms has the most booking and as well higher cancellation rate
+
+
+## Future Improvements
