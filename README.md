@@ -9,16 +9,13 @@
 
 
 
+## Contents
 
-
-
-Contents:
-
--	Problem statement
--	Objectives
--	Technical Skills Demonstrated
--	Insights Derived
--	Future Improvements
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
+- [Insights Derived](#insights-derived)
+- [Future Improvements](#future-improvements)
 
 
 
